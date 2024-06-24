@@ -44,8 +44,8 @@ By implementing these recommendations, the company can better identify and manag
 ## Technologies Used
 - `Python 3`
 - `matplotlib` and `seaborn` for plotting
-- `scipy,stats` for statistics
-- `IsolationForest` from `sklearn` for outlier detection and removal 
+- `scipy.stats` for statistics
+- `IsolationForest` from `sklearn` for outlier detection 
 - `linkage` and `dendrogram` from scipy for reordered correlation matrix 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
