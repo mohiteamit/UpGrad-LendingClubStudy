@@ -1,0 +1,4 @@
+https://github.com/mohiteamit/UpGrad-LendingClubStudy/tree/master
+
+
+**Note** : If you are to re-run code, notebook contains scatter/pair plot which takes up to 5 minutes to run. 
