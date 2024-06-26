@@ -52,4 +52,4 @@ The primary objective of this case study is to understand the factors that influ
 Neelam Jhunjhunwalla - project partner and UpGrad class mate
 
 ## Contact
-Created by [@mohiteamit]
+Created by @mohiteamit
