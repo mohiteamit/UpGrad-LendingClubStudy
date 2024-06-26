@@ -46,7 +46,7 @@ By implementing these recommendations, the company can better identify and manag
 - `matplotlib` and `seaborn` for plotting
 - `scipy.stats` for statistics
 - `IsolationForest` from `sklearn` for outlier detection 
-- `linkage` and `dendrogram` from scipy for reordered correlation matrix 
+- `Visual Studio code` with `Jupyter Notebook` extension 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
