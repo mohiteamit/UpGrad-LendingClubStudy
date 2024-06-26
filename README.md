@@ -49,7 +49,7 @@ The primary objective of this case study is to understand the factors that influ
 - `Visual Studio code` with `Jupyter Notebook` extension 
 
 ## Acknowledgements
-Neelam Jhunjhunwalla - project partner and UpGrad class mate
+Neelam Jhunjhunwalla (@neelamiimr) - project partner and UpGrad class mate
 
 ## Contact
 Created by @mohiteamit
